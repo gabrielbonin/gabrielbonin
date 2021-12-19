@@ -46,8 +46,8 @@
 
 **Lojas de Aplicativos**
 
-  ![Google](https://img.shields.io/badge/-GooglePlay-333333?style=flat&logo=googleplay&logoColor=)
-  ![Apple](https://img.shields.io/badge/-Apple-333333?style=flat&logo=apple)
+  ![Google](https://img.shields.io/badge/-Google_Play-333333?style=flat&logo=googleplay&logoColor=)
+  ![Apple](https://img.shields.io/badge/-Apple_Connect-333333?style=flat&logo=apple)
 
 <br/>
 
