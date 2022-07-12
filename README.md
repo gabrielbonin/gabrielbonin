@@ -22,6 +22,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![FireBase](https://img.shields.io/badge/-FireBase-333333?style=flat&logo=firebase)
   ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
+  ![Storybook](https://img.shields.io/badge/-Storybook-333333?style=flat&logo=storybook)
 
 **Utilidades**
 
